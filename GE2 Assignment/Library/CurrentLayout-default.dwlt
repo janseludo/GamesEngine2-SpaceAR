@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 444}
   m_MaxSize: {x: 8006, y: 8044}
   vertical: 1
-  controlID: 109
+  controlID: 116
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 115
+  controlID: 147
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 116
+  controlID: 148
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -425,19 +425,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/spaceship/spaceship by thomas mattia/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 55
   m_LastFolders:
-  - Assets/spaceship/spaceship by thomas mattia/Materials
+  - Assets
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\janseludo\Desktop\GE2_asignment\GE2 Assignment
+  m_LastProjectPath: C:\Users\janseludo\Desktop\GE2_asignment\GamesEngine2-SpaceAR\GE2
+    Assignment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 2c310000
-    m_LastClickedID: 12588
+    m_SelectedIDs: 142e0000
+    m_LastClickedID: 11796
     m_ExpandedIDs: 00000000142e00007a2e000048310000fc36000016370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -493,7 +494,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000283900008874000086740000325f000000000000e83d00001e5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -591,7 +592,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4af8ffff80f8ffff2ef9ffff74fbffff
+      m_ExpandedIDs: 74fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -686,9 +687,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.15325464, y: 0.44248828, z: -0.07707662, w: 0.8802138}
   m_Size:
-    m_Target: 18.446848
+    m_Target: 109.26554
     speed: 2
-    m_Value: 18.746847
+    m_Value: 109.26554
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -760,10 +761,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
