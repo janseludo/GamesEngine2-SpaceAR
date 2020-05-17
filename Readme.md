@@ -4,7 +4,8 @@
 
 # Spaceships AR
 ## Spaceships Models
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/IntergalacticSpaceship.jpeg "Logo Title Text 1")
+![alt text](IntergalacticSpaceship.JPG "Logo Title Text 1")
+
 
 Use this for a link: [janseludoGit](https://github.com/janseludo/Games-Engine-2)
 
