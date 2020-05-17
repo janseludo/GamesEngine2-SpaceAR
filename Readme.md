@@ -11,10 +11,14 @@
   background: none;}
 
 #### Cargo Ship
-![alt text](Images_MD/CargoShip.JPG "CargoShip")
+![alt text](Images_MD/CargoShip.JPG "CargoShip")width: 70%;
+  border: none;
+  background: none;}
 
 #### Mother ship
-![alt text](Images_MD/Mothership.JPG "Mothership")
+![alt text](Images_MD/Mothership.JPG "Mothership")width: 70%;
+  border: none;
+  background: none;}
 
 
 
