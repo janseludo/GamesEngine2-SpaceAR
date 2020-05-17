@@ -4,12 +4,18 @@
 
 # Spaceships AR
 ## Spaceships Models
+
+IntergalacticSpaceship:
 ![alt text](IntergalacticSpaceship.JPG "Logo Title Text 1")
 
 
-Use this for a link: [janseludoGit](https://github.com/janseludo/Games-Engine-2)
+
+
+
 
 ## Story Board
+"As the cargo ship transports goods from the far end of the earth to the other end Intergalactic spaceships swarm to its location to claim the cargo for them selves.""
+
 ## AR Foundation
 ### Unity AR Core
 
@@ -36,3 +42,4 @@ Use this for a link: [janseludoGit](https://github.com/janseludo/Games-Engine-2)
   Offset Pursue
 ```
 ```
+Use this for a link: [janseludoGit](https://github.com/janseludo/Games-Engine-2)
