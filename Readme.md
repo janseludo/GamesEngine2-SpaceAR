@@ -5,13 +5,13 @@
 # Spaceships AR
 ## Spaceships Models
 
-IntergalacticSpaceship:
+#### IntergalacticSpaceship
 ![alt text](Images_MD/IntergalacticSpaceship.JPG "IntergalacticSpaceship")
 
-Cargo Ship
+#### Cargo Ship
 ![alt text](Images_MD/CargoShip.JPG "CargoShip")
 
-Mother ship:
+#### Mother ship
 ![alt text](Images_MD/Mothership.JPG "CargoShip")
 
 
