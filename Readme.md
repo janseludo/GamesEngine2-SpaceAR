@@ -6,7 +6,7 @@
 ## Spaceships Models
 
 IntergalacticSpaceship:
-![alt text](IntergalacticSpaceship.JPG "IntergalacticSpaceship")
+![alt text](Images_MD/IntergalacticSpaceship.JPG "IntergalacticSpaceship")
 
 Cargo Ship
 ![alt text](Images_MD/CargoShip.JPG "CargoShip")
