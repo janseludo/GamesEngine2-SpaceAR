@@ -6,14 +6,15 @@
 ## Spaceships Models
 
 #### IntergalacticSpaceship
-![alt text](Images_MD/IntergalacticSpaceship.JPG "IntergalacticSpaceship")
+![alt text](Images_MD/IntergalacticSpaceship.JPG  "IntergalacticSpaceship") {width: 70%;
+  border: none;
+  background: none;}
 
 #### Cargo Ship
 ![alt text](Images_MD/CargoShip.JPG "CargoShip")
 
 #### Mother ship
-![alt text](Images_MD/Mothership.JPG "CargoShip")
-
+![alt text](Images_MD/Mothership.JPG "Mothership")
 
 
 
